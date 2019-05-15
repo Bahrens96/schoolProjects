@@ -1,0 +1,171 @@
+
+div.container{
+
+  width:100%;
+}
+
+
+h1,h2{
+font-family: 'Roboto', sans-serif;
+color: black;
+font-weight: 700;
+}
+
+a {
+
+font-family: 'Roboto', sans-serif;
+ color: black;
+
+}
+body{
+ background-color:white;
+
+}
+
+img{
+border-radius: 50%;
+padding-left: 10px;
+margin-left: 25px;
+
+}
+
+div.ciscoLogo {
+  position: relative;
+  padding-left: 100px;
+  margin-left: 450px;
+}
+
+div.callbuttonLogo{
+
+  position: relative;
+
+}
+div.Title
+{
+ text-align: center;
+ font-size: 30px;
+ font-family: 'Roboto', sans-serif;
+ font color: white;
+
+}
+div.holdbutton2{
+
+  position: relative;
+  padding-left:100px;
+  margin-left: 90px;
+  padding-top: -20px;
+  margin-top: -210px;
+
+}
+
+div.voicemailMessageLogo{
+
+  position: relative;
+  padding-left:100px;
+  margin-left: 275px;
+  padding-top: -20px;
+  margin-top: -210px;
+
+}
+
+div.webexLogo
+{
+  position: relative;
+  padding-left:100px;
+  margin-left: 450px;
+  padding-top: -20px;
+  margin-top: -210px;
+
+}
+
+
+div.homeScreen
+{
+position: relative;
+  padding-left:100px;
+  margin-left: 90px;
+  padding-top: -5px;
+  margin-top: -210px;
+}
+
+
+div.audio{
+
+  position: relative;
+  padding-left:100px;
+  margin-left: 275px;
+  padding-top: -5px;
+  margin-top: -210px;
+
+}
+
+div.mute
+{
+  position: relative;
+  padding-left:100px;
+  margin-left: 450px;
+  padding-top: -5px;
+  margin-top: -210px;
+
+}
+
+div.ringtone
+{
+position: relative;
+  padding-left:100px;
+  margin-left: 90px;
+  padding-top: -5px;
+  margin-top: -210px;
+
+}
+
+div.softphoneNum
+{
+position: relative;
+  padding-left:55px;
+  margin-left: 300px;
+  padding-top: -5px;
+  margin-top: -210px;
+}
+
+div.Setup
+{
+position: relative;
+  padding-left:120px;
+  margin-left: 450px;
+  padding-top: -5px;
+  margin-top: -210px;
+}
+
+div.request
+{
+position: relative;
+  padding-left:100px;
+  margin-left: 90px;
+  padding-top: -5px;
+  margin-top: -210px;
+}
+
+
+div.training{
+
+  position: relative;
+  padding-left:100px;
+  margin-left: 275px;
+  padding-top: -5px;
+  margin-top: -210px;
+
+}
+
+div.windowsPC{
+
+  position: relative;
+  padding-left:120px;
+  margin-left: 450px;
+  padding-top: -5px;
+  margin-top: -210px;
+}
+
+
+
+

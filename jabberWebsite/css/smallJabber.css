@@ -1,0 +1,158 @@
+body {
+	/*background-color: green;*/
+}
+
+h2 {
+	font-size:3vw;
+}
+
+div.webexLogo
+{
+  position: relative;
+  padding-left: 30px;
+  margin-left: -30px;
+  padding-top: 60px;
+  margin-top: -70px;
+    width:100%;
+
+}
+
+div.container{
+
+  width:100%;
+}
+
+
+div.holdbutton2{
+
+  position: relative;
+  padding-left:30px;
+  margin-left: 120px;
+  padding-top: -20px;
+  margin-top: -205px;
+  width:100%;
+}
+
+div.voicemailMessageLogo{
+
+  position: relative;
+  padding-left:30px;
+  margin-left: 275px;
+  padding-top: -20px;
+  margin-top: -205px;
+    width:100%;
+
+}
+
+div.answerCall{
+position: relative;
+  padding-left: 30px;
+  margin-left: 130px;
+  padding-top: 5px;
+  margin-top: -200px;
+    width:100%;
+}
+div.homeScreen
+{
+position: relative;
+  padding-left:30px;
+  margin-left: 275px;
+  padding-top: 5px;
+  margin-top: -210px;
+    width:100%;
+
+}
+
+div.audio{
+
+  position: relative;
+  padding-left:30px;
+  margin-left: -30px;
+  padding-top: 50px;
+  margin-top: -70px;
+    width:100%;
+
+}
+
+div.contact{
+position: relative;
+  padding-left:30px;
+  margin-left: 120px;
+  padding-top: 20px;
+  margin-top: -230px;
+    width:100%;
+
+}
+
+div.ringtone{
+position: relative;
+padding-top: 100px;
+margin-top: 20px;
+    width:100%;
+
+}
+
+div.softphoneNum{
+
+position: relative;
+padding-top:-30px;
+margin-top: -200px;
+ padding-left:30px;
+  margin-left: 110px;
+
+}
+
+
+div.mute
+{
+  position: relative;
+  padding-left:30px;
+  margin-left: 275px;
+  padding-top: 50px;
+  margin-top: -250px;
+  width:100%;
+}
+
+
+div.ringtone
+{
+position: relative;
+  padding-left:0px;
+  margin-left: 10px;
+  margin-top: -135px;
+    width:100%;
+
+}
+div.callbuttonLogo{
+
+  position: relative;
+  margin-left: 0px;
+    width:100%;
+}
+
+div.ciscoLogo {
+  position: relative;
+  padding-left: 20px;
+  margin-left: 30px;
+   width:100%;
+}
+
+div.Setup
+{
+position: relative;
+padding-top:-30px;
+margin-top: -200px;
+ padding-left:30px;
+  margin-left: 310px;
+
+}
+
+div.windowsPC{
+
+padding-top:-30px;
+margin-top: -10px;
+padding-left:30px;
+  margin-left: 110px;
+
+
+}
