@@ -1,0 +1,414 @@
+/* css elements for responsive  web design section classes  */
+.homeimg { /*need */
+margin-top: -300px;
+padding:10px;
+
+}
+
+section#mc_embed_signup {  /*need */
+  background:#BBE343; 
+  clear:left; 
+  font:14px Helvetica,Arial,sans-serif; 
+  line-height: 3.0;
+  width: 600px;
+  height:420px;
+  padding-right : 60px;
+  padding-left: 60px ;
+  border-radius: 2px ;
+  object-position: top;
+  border-style: solid;
+  vertical-align: top;
+  text-align: inherit;
+  border-top: 20px;
+  position: relative;
+  border-left: 20px;
+  float:inherit;
+  bottom:0px;
+  margin-top: -100px;
+ margin-right: -10px;
+}
+/* css elements for contact page  */
+
+.facebookimg { /*need */
+ margin-top:-300px;
+ margin-left:270px;
+  position: absolute;
+ border-left: 20px;
+ }
+
+.instaimg{ /*need */
+ margin-top:-150px;
+ margin-left:70px;
+ position: absolute;
+ border-left: 20px;
+}
+
+/* css elements for the lightboxes  */
+.birdattractingtips { /*need */
+ margin-top:-300px;
+ margin-left: 500px;
+ float:left;
+}
+
+body {
+  /* Full Page Background Receipe */
+  margin:0;
+  background-color: #40BBE3
+}
+
+* {
+  -moz-box-sizing: border-box; /* Firexfox */
+  -webkit-box-sizing: border-box; /* Safari/Chrome/iOS/Android */
+  box-sizing: border-box; /* IE */
+}
+
+.clearfix:after {
+  content: "";
+  display: table;
+  clear: both.}
+
+h1 {
+  font-family: 'Montserrat', sans-serif;
+  font-size:50px;
+  text-align: center;
+}
+
+.container { /*need */
+  background-color: #40BBE3;
+  width:100%;
+}
+
+ #main { /*need */
+  background-color: #40BBE3;
+  padding:30px;
+  width: 100%;
+  float: left;
+  font-family: 'Montserrat', sans-serif;
+  font-size : 20px;
+  text-align: top;
+  line-height: 1.7; /* line-height is unit-less */
+  font-size: 100%;
+  margin-top: 10px;
+}
+
+#header { /*need */
+  font-family: 'Montserrat', sans-serif;
+  background-color: #FFBA5D; 
+  float:left;
+  width:100%;
+  height:100px;
+  padding:10px;
+  margin-bottom: -10px;
+  padding-bottom: 5px;
+  line-height: 1.7; /* line-height is unit-less */
+  color: black;
+  font-size: 200px;
+  vertical-align: bottom;
+  text-align: center;
+  margin-right: auto;
+  margin-left: auto;
+}
+
+#footer { /*need */
+  background-color: #FFBA5D;
+ width:100%;
+  float:left;
+  font-family: 'Montserrat', sans-serif;
+  color: black;
+  padding : 10px;
+  font size : 200px;
+  vertical-align: bottom;
+  text-align: center;
+  margin-right: auto;
+  margin-left: auto;
+}
+
+/* form */
+
+indicates-required { /*need */
+  color:#cc0014;
+  text-align: right;
+ }
+
+
+ .asterisk { /*need */
+  color:#EA0070;
+ }
+
+ .mc-field-group { /*need */
+  color:#172638;
+ }
+
+ .button { /*need */
+  font-size:20px;
+  color:#fff;
+  background:#0b11b8;
+  width:150px;
+  height:40px;
+  border-radius: 12px;
+  padding:5px;
+  text-align: center;
+  vertical-align: bottom center;
+  margin:auto;
+  display:block;
+ }
+
+ label { /*need */
+  font-size:20px;
+  color:#B86D0B;
+  display: inline-block;
+    width: 275px;
+  text-align: right;
+}
+
+input { /*need */
+  width:200px;
+  height: 20px;
+  border-radius: 2px;
+}
+
+a{ /*need */
+  font-size: 50px;
+  color:#fff;
+  text-decoration:none;
+  margin-right: 200px;
+}
+
+/* end form */
+
+ul { /*need */
+    list-style-type: none;
+    margin: 0;
+    padding: 10;
+}
+
+/* to get rid of those eye sore hr lines  */
+hr{ /*need */
+    clear: both;
+    border: 1px solid transparent;
+    height: 0px;
+}
+
+/*Navigation Bar Code*/
+
+.clear /* need */ {
+  clear:both;
+}
+
+/*------NAVIGATION CODE----*/
+
+#navbar /* need */{
+width: 850px;
+height:auto;
+margin: 0 auto;
+border-radius: 3px; 
+}
+
+#nav /* need */{
+  text-align: center;
+  display: inline;
+  list-style: none;
+  padding:30px;
+}
+
+#nav li  /* need */{
+  display: inline-block;
+  position: relative;
+  margin-right: 10px;
+  margin-left: -10px;
+  padding-top: 3px;
+  padding-right: 3px;
+  padding-bottom: 3px;
+  padding-left: 3px;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 16px;
+  line-height: 16px;
+  font-weight: bold;
+  text-transform: uppercase;
+  width:120px;
+}
+
+#nav li .submenu  /* need */{
+  padding:5px;
+  margin: 0px;
+  border:10px;
+  margin-left: 0px;
+  position: relative;
+  top:-10px;
+  left: 10px;
+  width: 120px;
+  display: none;
+  opacity: 0;
+  visibility: hidden;
+  text-align: left;
+}
+
+#nav ul li  /* need */{
+vertical-align: top;
+list-style: none;
+font-size: 20px;
+}
+
+#nav ul li a /* need */{
+background: #BBE343; 
+margin-left:-350px;
+padding-right:10px;
+padding:2px;
+width:250px;
+text-align:center;
+color: #f2f2f2;
+display: block;
+border-radius:10px;
+font-size: 20px;
+position: relative;
+}
+
+#nav ul /* need */{
+   padding-left: 0;
+}
+
+#nav ul li a:hover  /* need */{
+color: #40BBE3;
+transition: color 0.3s ease-in;
+}
+
+#nav li .submenu li  /* need */ {
+  display: block;
+}
+
+#nav li:hover .submenu  /* need */{
+  display: block;
+  opacity: 2;
+  visibility: visible;
+  margin-right:-20px;
+}
+
+/* google map css */
+
+iframe /* need */ {
+width:250px;
+margin-left: 300px;
+padding-bottom:20px;
+margin-top:-150px;
+padding-right:5px;
+float:left;
+}
+
+/* find a bird feeder page  drop down boxes and button css */
+
+.birdsearchparameters /* need */{
+width:100%;
+margin-left:-0px;
+padding-left: 100px;
+padding-bottom:20px;
+position:relative;
+float:left;
+}
+
+.birdSpecies /* need */  {
+position: absolute;
+margin-top: -300px;
+margin-left:-250px;
+padding-bottom:20px ;
+padding-top:20px;
+padding-left: 50px;
+padding-right:80px;
+background-color:#BBE343;
+color:#FFF;
+font-family: 'Montserrat', sans-serif;
+}
+
+.typicalWeather /* need */{
+position: absolute;
+width: auto;
+margin-top: -225px;
+margin-left:-250px;
+padding-bottom:20px ;
+padding-top:20px;
+padding-left: 50px;
+padding-right:50px;
+background-color:#BBE343;
+color:#FFF;
+font-family: 'Montserrat', sans-serif;
+}
+
+.commonPests  /* need */ {
+position: absolute;
+width: auto;
+margin-top: -150px;
+margin-left:-250px;
+padding-bottom:20px ;
+padding-top:20px;
+padding-left: 50px;
+padding-right:50px;
+background-color:#BBE343;
+color:#FFF;
+font-family: 'Montserrat', sans-serif;
+}
+
+.cleanlineness  /* need */{
+position: absolute;
+width: auto;
+margin-top: -75px;
+margin-left:-250px;
+padding-bottom:20px ;
+padding-top:20px;
+padding-left: 50px;
+padding-right:80px;
+background-color:#BBE343;
+color:#FFF;
+font-family: 'Montserrat', sans-serif;
+}
+
+.submit /* need */ {
+padding-bottom:20px ;
+padding-top:20px;
+padding-left: 50px;
+padding-right:50px;
+background-color: silver;
+box-shadow: 2px 2px 0 blue; 
+position: absolute;
+margin-top: 0px;
+margin-left:-250px;
+ font-family: 'Montserrat', sans-serif;
+ font-size:15px;
+ text-align: center;
+    }
+
+/* about text css */
+
+.abouttext /* need */
+{
+   margin: 0 auto;
+    height:100%;
+    width:100%;
+    float: left;
+    padding-left: 200px;
+  font-size:18px;
+  color:white;
+font-family: 'Montserrat', sans-serif;
+}
+
+/* about.html pics  */
+.mrkittycat{ /*need */
+  float:right;
+  padding-right:50px;
+  margin-top:-120px;
+  margin-right:-50px;
+}
+
+.mrsquirrel{ /*need */
+float:left;
+padding-left: 50px;
+margin-top:-120px;
+margin-left:90px;
+}
+
+/* css elements for responsive  web design aside classes  */
+aside.left { /*need */
+float:left;
+}
+
+aside.right { /*need */
+float:right;
+}
